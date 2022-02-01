@@ -17,14 +17,17 @@ public class CheckOpenClose
                     myStack.Push (c);
                     break;
                 case ')':
+                    if(myStack.Count == 0) return false;
                     x = Convert.ToChar(myStack.Pop());
                     if (x != '(') return false;
                     break;
                 case '}':
+                if(myStack.Count == 0) return false;
                     x = Convert.ToChar(myStack.Pop());
                     if (x != '{') return false;
                     break;
                 case ']':
+                    if(myStack.Count == 0) return false;
                     x = Convert.ToChar(myStack.Pop());
                     if (x != '[') return false;
                     break;
@@ -46,6 +49,7 @@ public class CheckOpenClose
         listaTeste.Add("");
         listaTeste.Add("([]())");
         listaTeste.Add("(a)(b)(c)");
+        listaTeste.Add("))");
 
         foreach(string s in listaTeste)
         {
