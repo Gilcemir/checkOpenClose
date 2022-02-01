@@ -1,0 +1,15 @@
+C:\workspace\checkOpenClose\obj\Debug\net6.0\checkOpenClose.csproj.AssemblyReference.cache
+C:\workspace\checkOpenClose\obj\Debug\net6.0\checkOpenClose.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\checkOpenClose\obj\Debug\net6.0\checkOpenClose.AssemblyInfoInputs.cache
+C:\workspace\checkOpenClose\obj\Debug\net6.0\checkOpenClose.AssemblyInfo.cs
+C:\workspace\checkOpenClose\obj\Debug\net6.0\checkOpenClose.csproj.CoreCompileInputs.cache
+C:\workspace\checkOpenClose\bin\Debug\net6.0\checkOpenClose.exe
+C:\workspace\checkOpenClose\bin\Debug\net6.0\checkOpenClose.deps.json
+C:\workspace\checkOpenClose\bin\Debug\net6.0\checkOpenClose.runtimeconfig.json
+C:\workspace\checkOpenClose\bin\Debug\net6.0\checkOpenClose.dll
+C:\workspace\checkOpenClose\bin\Debug\net6.0\ref\checkOpenClose.dll
+C:\workspace\checkOpenClose\bin\Debug\net6.0\checkOpenClose.pdb
+C:\workspace\checkOpenClose\obj\Debug\net6.0\checkOpenClose.dll
+C:\workspace\checkOpenClose\obj\Debug\net6.0\ref\checkOpenClose.dll
+C:\workspace\checkOpenClose\obj\Debug\net6.0\checkOpenClose.pdb
+C:\workspace\checkOpenClose\obj\Debug\net6.0\checkOpenClose.genruntimeconfig.cache

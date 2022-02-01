@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "checkOpenClose/1.0.0": {
+        "runtime": {
+          "checkOpenClose.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "checkOpenClose/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
