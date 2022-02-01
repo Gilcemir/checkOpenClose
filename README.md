@@ -1,6 +1,10 @@
 # checkOpenClose
+<<<<<<< HEAD
 Check Open Close, verificar se determinadas chaves abrem e fecham corretamente. 
 
+=======
+Desafio de programação - verifica se as chaves abrem e fecham corretamente
+>>>>>>> 2753e2f233b20a9befa7b3652fd5f703d95c1600
 Fiz esse problema em um teste para uma empresa e, por questão de semântica, não consegui fazer.
 Agora implementei a versão corretamente.
 
